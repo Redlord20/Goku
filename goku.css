@@ -1,0 +1,21 @@
+html {
+    background-color: goldenrod;
+}
+
+body {
+     background-color: rgb(165, 204, 165);
+    border: 1px solid grey; 
+    margin: 30px 80px;
+}
+
+.headimg {
+    display: inline-block;
+}
+
+header img {
+    float: right;
+}
+ 
+  
+  
+  
